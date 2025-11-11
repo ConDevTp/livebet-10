@@ -21,7 +21,7 @@ Customize UI and logic as needed
 https://livebet-10.pages.dev <br/><br/>
 
 📸 Preview: <br/> <br/>
-![Spin Wheel Demo](https://github.com/ConDevTp/livebet-9/blob/main/assets/img/preview.png)
+![Spin Wheel Demo](https://github.com/ConDevTp/livebet-10/blob/main/assets/img/preview.png)
 
 📄 License
 MIT © [ConDev]
